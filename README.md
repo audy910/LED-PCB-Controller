@@ -1,5 +1,4 @@
 # LED-PCB-Controller
-# LED-PCB-Controller
 
 A custom ATmega328P controller board for WS2812B addressable LED strips, designed in KiCad and built for a light box. Three buttons and a brightness knob drive three lighting modes, from adjustable warm/cool white to six animated "party" effects, all running on a standalone Arduino-compatible board with no dev board required.
 
